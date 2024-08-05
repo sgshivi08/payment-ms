@@ -27,8 +27,8 @@ The Payment Microservice handles payment processing for ticket bookings. It inte
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/payment-microservice.git
-cd payment-microservice
+git clone https://github.com/sgshivi08/payment-ms.git
+cd payment-ms
 
 Build the Project
 bash
